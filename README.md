@@ -4,16 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=200&section=header&text=Gayathri%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
 </div>
-
-<div align="center">
-
-### 👩‍💻 Full Stack Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; ☕ Java Specialist
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs;Agentic+AI+%26+Prompt+Engineering+%F0%9F%A4%96;Open+to+New+Opportunities+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
+
+<div align="center">
+
+### 👩‍💻 Full Stack Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; ☕ Java Specialist
+
+
 
 ---
 
