@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Women Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Women Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 Hi there! I'm **Gayathri K**, a passionate **Full Stack Developer** and **B.Tech Computer Science & Business Systems** student at V.S.B. Engineering College, Karur, India.
 
