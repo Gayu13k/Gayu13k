@@ -31,10 +31,6 @@
 
 Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys building reliable backend systems with **Java, Spring Boot and MySQL**. I like turning ideas into working applications, from a hospital management system to an AI-powered career mentoring platform, and I'm looking for **software developer and backend engineering roles**.
 
-🎓 B.Tech CSBS · V.S.B. Engineering College<br/>
-💼 Internships at Infosys Springboard and Oasis Infobyte<br/>
-📍 Karur, Tamil Nadu, India
-
 </td>
 <td width="38%" align="center">
 
