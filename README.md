@@ -61,13 +61,42 @@ public class Gayathri {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,git,github,postman,figma,canva,notion&theme=light" />
-
-<br/><br/>
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140"><b>💻 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF9A76?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Design & AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -97,17 +126,7 @@ public class Gayathri {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayu13k&bg_color=FFF8F2&color=6FA8DC&line=FF9A76&point=6FA8DC&area=true&area_color=FFE5D9&hide_border=false&border_color=FFCBA4&custom_title=Contribution%20Activity%20Graph" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gayu13k&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" />
+<img src="https://ghchart.rshah.org/FF9A76/Gayu13k" alt="Contribution chart" width="90%" />
 
 </div>
 
