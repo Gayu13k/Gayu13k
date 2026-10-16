@@ -23,20 +23,37 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="62%">
+
 ## 👩‍💻 About Me
 
-I'm a final-year B.Tech Computer Science and Business Systems student at V.S.B. Engineering College, Karur, graduating in 2026 with a CGPA of 8.4. I specialize in Java backend development, building REST APIs and database-driven applications with Spring Boot and MySQL. I'm currently looking for software developer and backend engineering roles.
+```java
+public class Gayathri {
+    String role     = "Java Backend Developer";
+    String stack    = "Spring Boot · REST APIs · MySQL";
+    String sideQuest = "AI-powered tools & automation";
+    String status   = "Open to Backend / SDE roles 🚀";
 
-**What I've been working on**
+    public void code() {
+        while (alive) {
+            learn();
+            build();
+            ship();
+        }
+    }
+}
+```
 
-- 🏥 **MediCare360:** a hospital management system built with Spring Boot
-- 🎯 **SkillBridge AI:** a career mentoring platform that uses Spring Boot and AI APIs
-- 📚 **StudyVerse:** an AI flashcard generator, which is also the subject of an IEEE ICCET paper
+</td>
+<td width="38%" align="center">
 
-**Experience**
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="270"/>
 
-- Java Full Stack and Data Visualization internships at Infosys Springboard
-- Internship at Oasis Infobyte
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -44,7 +61,13 @@ I'm a final-year B.Tech Computer Science and Business Systems student at V.S.B. 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,git,github,postman,figma&theme=light" /><img src="./assets/canva.svg" height="48" alt="Canva" /><img src="https://skillicons.dev/icons?i=notion&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,git,github,postman,figma,canva,notion&theme=light" />
+
+<br/><br/>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -74,7 +97,17 @@ I'm a final-year B.Tech Computer Science and Business Systems student at V.S.B. 
 
 <br/>
 
-<img src="https://ghchart.rshah.org/FF9A76/Gayu13k" alt="Contribution chart" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayu13k&bg_color=FFF8F2&color=6FA8DC&line=FF9A76&point=6FA8DC&area=true&area_color=FFE5D9&hide_border=false&border_color=FFCBA4&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gayu13k&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" />
 
 </div>
 
