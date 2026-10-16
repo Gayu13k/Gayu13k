@@ -23,37 +23,20 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="62%">
-
 ## 👩‍💻 About Me
 
-```java
-public class Gayathri {
-    String role     = "Java Backend Developer";
-    String stack    = "Spring Boot · REST APIs · MySQL";
-    String sideQuest = "AI-powered tools & automation";
-    String status   = "Open to Backend / SDE roles 🚀";
+I'm a final-year B.Tech Computer Science and Business Systems student at V.S.B. Engineering College, Karur, graduating in 2026 with a CGPA of 8.4. I specialize in Java backend development, building REST APIs and database-driven applications with Spring Boot and MySQL. I'm currently looking for software developer and backend engineering roles.
 
-    public void code() {
-        while (alive) {
-            learn();
-            build();
-            ship();
-        }
-    }
-}
-```
+**What I've been working on**
 
-</td>
-<td width="38%" align="center">
+- 🏥 **MediCare360:** a hospital management system built with Spring Boot
+- 🎯 **SkillBridge AI:** a career mentoring platform that uses Spring Boot and AI APIs
+- 📚 **StudyVerse:** an AI flashcard generator, which is also the subject of an IEEE ICCET paper
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="270"/>
+**Experience**
 
-</td>
-</tr>
-</table>
+- Java Full Stack and Data Visualization internships at Infosys Springboard
+- Internship at Oasis Infobyte
 
 <br/>
 
@@ -61,42 +44,7 @@ public class Gayathri {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>💻 Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF9A76?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧰 Dev Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🎨 Design & AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,git,github,postman,figma&theme=light" /><img src="./assets/canva.svg" height="48" alt="Canva" /><img src="https://skillicons.dev/icons?i=notion&theme=light" />
 
 </div>
 
