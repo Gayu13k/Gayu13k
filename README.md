@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFE5D9,50:FFCBA4,100:BFE1F0&height=220&section=header&text=Gayathri%20K&fontSize=64&fontColor=4A4A4A&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=60&descColor=6B6B6B" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F8C8DC,50:E6D5F5,100:FFD9C0&height=220&section=header&text=Gayathri%20K&fontSize=64&fontColor=5B4A7A&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=60&descColor=7A6A99" />
 
 <a href="https://github.com/Gayu13k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF9A76&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Hi+there!+I'm+Gayathri+%F0%9F%91%8B;I+build+backend+systems+in+Java+%26+Spring+Boot+%E2%98%95;I+explore+AI-powered+tools+on+the+side+%F0%9F%A4%96;Open+to+Backend+Engineering+%2F+SDE+roles+%F0%9F%9A%80;Build+systems+that+solve+problems+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=9B7EDE&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Hi+there!+I'm+Gayathri+%F0%9F%91%8B;I+build+backend+systems+in+Java+%26+Spring+Boot+%E2%98%95;I+explore+AI-powered+tools+on+the+side+%F0%9F%A4%96;Open+to+Backend+Engineering+%2F+SDE+roles+%F0%9F%9A%80;Build+systems+that+solve+problems+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gayu13k&label=Profile%20Views&color=FF9A76&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Gayu13k?label=Followers&style=for-the-badge&color=6FA8DC&logo=github" />
-<img src="https://img.shields.io/github/stars/Gayu13k?label=Stars&style=for-the-badge&color=FFCBA4&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Gayu13k&label=Profile%20Views&color=E58FB0&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Gayu13k?label=Followers&style=for-the-badge&color=9B7EDE&logo=github" />
+<img src="https://img.shields.io/github/stars/Gayu13k?label=Stars&style=for-the-badge&color=F2A27A&logo=github" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathri-k04074a2b5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF9A76?style=for-the-badge&logo=vercel&logoColor=white)](https://gayathri-portfolio-pearl.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathri13kmg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayu13k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathri-k04074a2b5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E58FB0?style=for-the-badge&logo=vercel&logoColor=white)](https://gayathri-portfolio-pearl.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-F2A27A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathri13kmg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B4A7A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayu13k)
 
 </div>
 
@@ -31,6 +31,9 @@
 
 Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys building reliable backend systems with **Java, Spring Boot and MySQL**. I like turning ideas into working applications, from a hospital management system to an AI-powered career mentoring platform, and I'm looking for **software developer and backend engineering roles**.
 
+🎓 B.Tech CSBS · V.S.B. Engineering College<br/>
+💼 Internships at Infosys Springboard and Oasis Infobyte<br/>
+📍 Karur, Tamil Nadu, India
 
 </td>
 <td width="38%" align="center">
@@ -41,7 +44,7 @@ Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="85%" alt="" /></div>
 
 ## 🛠️ Tech Stack
 
@@ -51,42 +54,42 @@ Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys
 <tr>
 <td align="center" width="140"><b>💻 Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-E58FB0?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-E58FB0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E58FB0?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-E58FB0?style=for-the-badge&logo=css3&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>⚙️ Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF9A76?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-9B7EDE?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-9B7EDE?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-9B7EDE?style=for-the-badge&logo=mysql&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>🧰 Dev Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F2A27A?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-F2A27A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-F2A27A?style=for-the-badge&logo=postman&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>🎨 Design & AI</b></td>
 <td>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-C77DD6?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-C77DD6?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-C77DD6?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/NotebookLM-C77DD6?style=for-the-badge&logo=google&logoColor=white" />
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="85%" alt="" /></div>
 
 ## 🤖 AI & Productivity Toolkit
 
@@ -100,37 +103,23 @@ Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="85%" alt="" /></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gayu13k&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&bg_color=FFF8F2&title_color=FF9A76&icon_color=6FA8DC&text_color=4A4A4A&border_color=FFCBA4&card_width=480" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gayu13k&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&bg_color=FFF8F0&title_color=9B7EDE&icon_color=E58FB0&text_color=5B4A7A&border_color=E6D5F5&card_width=480" height="170" />
 
-<img src="https://streak-stats.demolab.com/?user=Gayu13k&theme=default&hide_border=false&background=FFF8F2&ring=FF9A76&fire=FFCBA4&currStreakLabel=FF9A76&border=FFCBA4" />
+<img src="https://streak-stats.demolab.com/?user=Gayu13k&theme=default&hide_border=false&background=FFF8F0&ring=9B7EDE&fire=E58FB0&currStreakLabel=9B7EDE&currStreakNum=5B4A7A&sideNums=5B4A7A&sideLabels=7A6A99&dates=7A6A99&border=E6D5F5" />
 
 <br/>
 
-<img src="https://ghchart.rshah.org/FF9A76/Gayu13k" alt="Contribution chart" width="90%" />
+<img src="https://ghchart.rshah.org/9B7EDE/Gayu13k" alt="Contribution chart" width="90%" />
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gayu13k/Gayu13k/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gayu13k/Gayu13k/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gayu13k/Gayu13k/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="85%" alt="" /></div>
 
 ## 💻 Coding Profiles
 
@@ -144,17 +133,17 @@ Hi, I'm Gayathri 👋 A Computer Science and Business Systems student who enjoys
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="85%" alt="" /></div>
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=6FA8DC&center=true&vCenter=true&width=600&lines=Have+a+project+idea%3F+Let's+talk!;Looking+for+a+backend+developer%3F+Ping+me!;Always+happy+to+collaborate+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=E58FB0&center=true&vCenter=true&width=600&lines=Have+a+project+idea%3F+Let's+talk!;Looking+for+a+backend+developer%3F+Ping+me!;Always+happy+to+collaborate+%F0%9F%A4%9D" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFE1F0,50:FFCBA4,100:FFE5D9&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=4A4A4A&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD9C0,50:E6D5F5,100:F8C8DC&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=5B4A7A&animation=fadeIn&fontAlignY=65" />
 
 *"Build systems that solve problems. Write code that speaks clearly."*
 
